@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/VladVlad1238?logo=github&style=for-
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON
+HTML, CSS, JavaScript, React.js, Figma, Git, GitHub, Firebase
 </p>
 
 
