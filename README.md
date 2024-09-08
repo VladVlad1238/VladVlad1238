@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladyslav Sikalo
 ========================================================================================================================================
 
-I have been learning coding for 1 year. Now I am studying at the SD.CODE online school in the direction of Frontend development. I have development skills with HTML, CSS, JavaScript, React. In addition, I own the following auxiliary development tools like GitHub, Git, Vite
+I have been learning coding for 2 years. Now I am studying at the SD.CODE online school in the direction of Frontend development. I have development skills with HTML, CSS, JavaScript, React. In addition, I own the following auxiliary development tools like GitHub, Git, Vite
 
 * 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [vladislavmediol@gmail.com](mailto:vladislavmediol@gmail.com)
-* 🚀  I'm currently working on [Memes-app](http://vladvlad1238.github.io/memes-app/)
-* 🧠  I'm learning React.js, Redux, Vite, Node.js, Next.js
+* 🧠  I'm learning React.js, Redux, Vite, Next.js
 * ⚡  I'm a development freak, just don't tell anyone!
 
 <a href="https://www.github.com/VladVlad1238" target="_blank" rel="noreferrer"><img
